@@ -44,6 +44,10 @@ function App() {
                     <Album />
                 </Route>
 
+                <Route path="/albumz">
+                    <Album />
+                </Route>
+
                 <Route path="/almacenes">
                     <Almacen />
                 </Route>
